@@ -1,3 +1,3 @@
-# The simple neural network that will recognize numbers in the input image.
+# The simple neural network that will recognize images of numbers
 ## consist of one layer and a simple function of activation
-## the implementation usting MNIST dataset of handwritten numbers
+## the implementation using MNIST dataset of handwritten numbers
